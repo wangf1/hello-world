@@ -4,13 +4,13 @@
    "info":{
       "title":"OData Service for namespace ODataWebExperimental.Northwind.Model",
       "version":"",
-      "description":"This OData service is located at http://localhost/service-root/"
+      "description":"This OData service is located at http://services.odata.org/V4/Northwind/Northwind.svc/"
    },
    "schemes":[
       "http"
    ],
-   "host":"localhost",
-   "basePath":"/service-root",
+   "host":"services.odata.org",
+   "basePath":"/V4/Northwind/Northwind.svc",
    "consumes":[
       "application/json"
    ],
